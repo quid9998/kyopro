@@ -1,5 +1,5 @@
 //同じ行(列)に含まれないことを利用してnext_permutationでN!で候補パターン列挙可
-//その検証部のいい感じの実装が思い浮かばんためペンディング
+//その検証部のいい感じの実装が思い浮かばんため保留
 
 #include <bits/stdc++.h>
 using namespace std;
